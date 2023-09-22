@@ -24,9 +24,9 @@ Each of the team participates in all the tasks of the project. But based on the 
 - project manager [John](https://github.com/johnedelbi)
 - Documentation (All of us)
 - Ux/Ui [Valeriya](https://github.com/V-Valkiriya) | [Renjani](https://github.com/renjani2022)
-- Code [John](https://github.com/johnedelbi) | [Bibha](https://github.com/bibhasingh) | [Brian](https://github.com/BrianMunene96)
+- Code [John](https://github.com/johnedelbi) | [Bibha](https://github.com/bibhasingh) | [Brian](https://github.com/BrianMunene96) | [Valeriya](https://github.com/V-Valkiriya)
 - Unit testing (All of us)
-- Presentation [John](https://github.com/johnedelbi)
+- Presentation (All of us)
 
 ## The RoadMap
 
